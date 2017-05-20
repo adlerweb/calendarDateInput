@@ -1,0 +1,15 @@
+{
+    "name": "adlerweb/CalenderDateInput",
+    "type": "library",
+    "description": "CalenderDateInput - Legacy JS date picker",
+    "homepage": "https://github.com/adlerweb/CalenderDateInput",
+    "license": "unknown",
+    "authors": [
+    	{
+    		"name": "Jason Moon"
+    	},{
+            "name": "Florian Knodt",
+            "email": "legacy-cdi@adlerweb.info"
+        }
+    ]
+}
