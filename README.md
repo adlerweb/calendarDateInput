@@ -5,7 +5,8 @@ This is a Javascript/HTML based calendar date input written by **Jason Moon**. T
 
 It was pulled from a local repository and might have slight changes against the original. Notably:
 
- - Uses UTF8 instead of images
+ - Uses mostly UTF8 instead of images
+ - Since the [UTF8 calendar icon](http://www.fileformat.info/info/unicode/char/1f4c5/browsertest.htm) is still not widely supported the calendar icon is still an image. You can modify it using *ImageURL*. Default is to use [koala-framework/library-silkicons](https://packagist.org/packages/koala-framework/library-silkicons).
  - Month predefined in german
 
 You might be able to catch a more original code over at http://www.angelfire.com/ny5/consigliere/dateinputcalendar.html.
